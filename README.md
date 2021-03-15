@@ -2,10 +2,10 @@
 
 ### ABOUT ME 👨‍💻
 
-## My name is Josivan Junior 🤵
-## I am an undergraduate Computer Engineering student, in the 7th period. 
-## Aspiring web developer with a penchant for Front-end technologies.
-## I have been studying web development with the goal of getting a position in the job market to develop myself professionally and also personally.
+# - My name is Josivan Junior 🤵
+# - I am an undergraduate Computer Engineering student, in the 7th period. 
+# - Aspiring web developer with a penchant for Front-end technologies.
+# - I have been studying web development with the goal of getting a position in the job market to develop myself professionally and also personally.
 
 ### CONTACT ME
 
